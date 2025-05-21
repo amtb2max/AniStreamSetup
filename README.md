@@ -29,7 +29,7 @@ It includes:
 ### 🪜 Steps
 
 1. **Download** the latest release:  
-   👉 [AnimeStreamingInstaller.exe](./AnimeStreamingInstaller.exe)  
+   👉 [mysetup.exe](./mysetup.exe)  
    _(or download the ZIP and extract)_
 
 2. **Run the installer**
@@ -64,7 +64,7 @@ It includes:
 
 - You can rebuild the installer using Inno Setup
 - Database is initialized using `init_mysql.bat`
-- MySQL runs as a local background process (on port `3306` or `3307` if needed)
+- MySQL runs as a local background process (on port `3306`)
 
 ---
 
